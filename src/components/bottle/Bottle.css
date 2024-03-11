@@ -1,0 +1,9 @@
+.bottole{
+  border: 2px solid seagreen;
+  padding: 10px;  
+  border-radius: 20px;
+}
+.bottole img{
+  width: 200px;
+  border-radius: 10px;
+}
