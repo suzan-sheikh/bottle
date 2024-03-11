@@ -44,7 +44,7 @@ const Bottles = () => {
     setCart(newCard);
     addToLS(bottle.id);
   }
-git 
+
   return (
     <div>
       <h2>Bottles Available: {bottles.length} </h2>      
